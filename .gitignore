@@ -7,4 +7,3 @@ msvc/z80/x64
 msvc/z80/Win32
 *.bak
 *.user
-*.props
